@@ -10,7 +10,7 @@ A curated collection of resources designed for ‘a la carte’ self-directed le
 - [PHP](./PHP.md)
 - [Cascading Style Sheets (CSS)](./CSS.md)
 - [Databases and SQL](./DATABASES_AND_SQL.md)
-- Java
+- [Java](./JAVA.md)
 - Python
 - Data Science
 - Cybersecurity

@@ -17,5 +17,5 @@ A curated collection of resources designed for ‘a la carte’ self-directed le
 - [Devops and IT Support](./DEVOPS_AND_IT_SUPPORT.md)
 - [User Experience and Design](./UX_AND_DESIGN.md)
 - [Sales and Customer Success](./SALES_AND_CUSTOMER_SUCCESS.md)
-- Project Management
+- [Project Management](./PROJECT_MANAGEMENT.md)
 - Automation

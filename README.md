@@ -18,4 +18,4 @@ A curated collection of resources designed for ‘a la carte’ self-directed le
 - [User Experience and Design](./UX_AND_DESIGN.md)
 - [Sales and Customer Success](./SALES_AND_CUSTOMER_SUCCESS.md)
 - [Project Management](./PROJECT_MANAGEMENT.md)
-- Automation
+- [Automation](./AUTOMATION.md)

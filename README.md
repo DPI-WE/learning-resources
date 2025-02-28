@@ -15,7 +15,7 @@ A curated collection of resources designed for ‘a la carte’ self-directed le
 - [Data Science](./DATA_SCIENCE.md)
 - [Cybersecurity](./CYBERSECURITY.md)
 - [Devops and IT Support](./DEVOPS_AND_IT_SUPPORT.md)
-- User Experience and Design
-- Sales and Customer Success
+- [User Experience and Design](./UX_AND_DESIGN.md)
+- [Sales and Customer Success](./SALES_AND_CUSTOMER_SUCCESS.md)
 - Project Management
 - Automation

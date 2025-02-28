@@ -12,7 +12,7 @@ A curated collection of resources designed for ‘a la carte’ self-directed le
 - [Databases and SQL](./DATABASES_AND_SQL.md)
 - [Java](./JAVA.md)
 - [Python](./PYTHON.md)
-- Data Science
+- [Data Science](./DATA_SCIENCE.md)
 - Cybersecurity
 - Devops and IT Support
 - User Experience and Design

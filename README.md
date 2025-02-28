@@ -8,7 +8,7 @@ A curated collection of resources designed for ‘a la carte’ self-directed le
 - [Javascript](./JAVASCRIPT.md)
 - [Interviewing](./INTERVIEWING.md)
 - [PHP](./PHP.md)
-- CSS
+- [Cascading Style Sheets (CSS)](./CSS.md)
 - Databases and SQL
 - Java
 - Python

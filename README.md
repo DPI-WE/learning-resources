@@ -7,7 +7,7 @@ A curated collection of resources designed for ‘a la carte’ self-directed le
 - [Fundamentals](./FUNDAMENTALS.md)
 - [Javascript](./JAVASCRIPT.md)
 - [Interviewing](./INTERVIEWING.md)
-- PHP
+- [PHP](./PHP.md)
 - CSS
 - Databases and SQL
 - Java

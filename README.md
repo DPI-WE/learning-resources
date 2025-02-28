@@ -13,7 +13,7 @@ A curated collection of resources designed for ‘a la carte’ self-directed le
 - [Java](./JAVA.md)
 - [Python](./PYTHON.md)
 - [Data Science](./DATA_SCIENCE.md)
-- Cybersecurity
+- [Cybersecurity](./CYBERSECURITY.md)
 - Devops and IT Support
 - User Experience and Design
 - Sales and Customer Success

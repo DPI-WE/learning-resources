@@ -5,7 +5,7 @@ A curated collection of resources designed for ‘a la carte’ self-directed le
 - [Career Exploration](./CAREER_EXPLORATION.md)
 - [Build](./BUILD.md)
 - [Fundamentals](./FUNDAMENTALS.md)
-- Javascript
+- [Javascript](./JAVASCRIPT.md)
 - Interviewing
 - PHP
 - CSS

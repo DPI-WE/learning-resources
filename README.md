@@ -11,7 +11,7 @@ A curated collection of resources designed for ‘a la carte’ self-directed le
 - [Cascading Style Sheets (CSS)](./CSS.md)
 - [Databases and SQL](./DATABASES_AND_SQL.md)
 - [Java](./JAVA.md)
-- Python
+- [Python](./PYTHON.md)
 - Data Science
 - Cybersecurity
 - Devops and IT Support
